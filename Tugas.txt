@@ -1,0 +1,9 @@
+2440091256 - Ryan Ismail
+
+Beberapa ekstensi dan library yg digunakan:
+Bootstrap
+SweetAlert
+Select2
+amcharts
+datatable
+Email -> CodeIgniter
